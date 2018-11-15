@@ -1,0 +1,19 @@
+.pageHeader {
+    margin: auto;
+    padding-bottom: 30px;
+    width: 30%;
+}
+
+.shop {
+   display: flex;
+   flex-basis: 30%;
+   margin: auto;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
